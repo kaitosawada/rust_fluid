@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fluid_simulation.iml" filepath="$PROJECT_DIR$/fluid_simulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parallel/parallel.iml" filepath="$PROJECT_DIR$/parallel/parallel.iml" />
+    </modules>
+  </component>
+</project>

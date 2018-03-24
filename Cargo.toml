@@ -1,0 +1,15 @@
+[package]
+name = "fluid_simulation"
+version = "0.1.0"
+authors = ["mito15 <mitosawada@gmail.com>"]
+
+[dependencies]
+piston_window = "0.74.0"
+image = "0.18.0"
+rand = "0.4"
+ndarray = "0.11.0"
+ndarray-rand = "0.7.0"
+ndarray-parallel = "0.8"
+rayon = "1.0"
+itertools = "0.7"
+num-traits = "0.2"
